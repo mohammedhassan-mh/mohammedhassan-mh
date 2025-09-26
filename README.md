@@ -39,11 +39,11 @@ I have worked on projects that a lot, built scalable applications, and continuou
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed Hassan&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedhassan-mh&layout=compact&theme=dark" alt="Top Languages"/>
 </div>
 
 ## 🎯 LeetCode Heatmap
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Mohammed Hassan?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/MohammedHassan?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
 </div>
